@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/u/static/css/main.95fbdc0e.css",
+    "main.js": "/u/static/js/main.a7e8d572.js",
+    "static/media/library.PNG": "/u/static/media/library.e605f97d9b6cfca75ac9.PNG",
+    "static/media/ecommerce.png": "/u/static/media/ecommerce.f97256df21eaf50e3a9e.png",
+    "static/media/poojasharma.png": "/u/static/media/poojasharma.32fe57162a36803d2751.png",
+    "static/media/snipbyte.PNG": "/u/static/media/snipbyte.6d5fbc96aa33bd9f34fe.PNG",
+    "static/media/portfolioo.PNG": "/u/static/media/portfolioo.02c19b0f287df3d5366e.PNG",
+    "static/media/imgtag.jpg": "/u/static/media/imgtag.f2a1562621d98e714b62.jpg",
+    "static/media/one.jpg": "/u/static/media/one.11db02eb1d06be689a6e.jpg",
+    "static/media/kasooko.PNG": "/u/static/media/kasooko.ef55ad4b5de079fa289c.PNG",
+    "index.html": "/u/index.html",
+    "main.95fbdc0e.css.map": "/u/static/css/main.95fbdc0e.css.map",
+    "main.a7e8d572.js.map": "/u/static/js/main.a7e8d572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95fbdc0e.css",
+    "static/js/main.a7e8d572.js"
+  ]
+}
