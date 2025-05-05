@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/u/static/css/main.4705585d.css",
-    "main.js": "/u/static/js/main.52d61f99.js",
+    "main.js": "/u/static/js/main.62c0b0a7.js",
     "static/media/library.PNG": "/u/static/media/library.e605f97d9b6cfca75ac9.PNG",
     "static/media/ecommerce.png": "/u/static/media/ecommerce.f97256df21eaf50e3a9e.png",
     "static/media/foraer.PNG": "/u/static/media/foraer.c8aca6e642659a7186f8.PNG",
     "static/media/userside.PNG": "/u/static/media/userside.fa195583701fb805ee11.PNG",
     "static/media/poojasharma.png": "/u/static/media/poojasharma.32fe57162a36803d2751.png",
     "static/media/alqaram.PNG": "/u/static/media/alqaram.25443ed33243f44b01bb.PNG",
+    "static/media/transportcleaner.PNG": "/u/static/media/transportcleaner.aa24c605fd3d18613464.PNG",
     "static/media/portfolioo.PNG": "/u/static/media/portfolioo.02c19b0f287df3d5366e.PNG",
     "static/media/khata.PNG": "/u/static/media/khata.015b527f44752eb88688.PNG",
     "static/media/one.jpg": "/u/static/media/one.11db02eb1d06be689a6e.jpg",
     "static/media/kasooko.PNG": "/u/static/media/kasooko.ef55ad4b5de079fa289c.PNG",
     "index.html": "/u/index.html",
     "main.4705585d.css.map": "/u/static/css/main.4705585d.css.map",
-    "main.52d61f99.js.map": "/u/static/js/main.52d61f99.js.map"
+    "main.62c0b0a7.js.map": "/u/static/js/main.62c0b0a7.js.map"
   },
   "entrypoints": [
     "static/css/main.4705585d.css",
-    "static/js/main.52d61f99.js"
+    "static/js/main.62c0b0a7.js"
   ]
 }
