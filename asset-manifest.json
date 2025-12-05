@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/u/static/css/main.5f629add.css",
-    "main.js": "/u/static/js/main.f552d340.js",
+    "main.css": "/u/static/css/main.fec4a39a.css",
+    "main.js": "/u/static/js/main.e8ce3b3b.js",
     "static/media/library.PNG": "/u/static/media/library.e605f97d9b6cfca75ac9.PNG",
     "static/media/ecommerce.png": "/u/static/media/ecommerce.f97256df21eaf50e3a9e.png",
+    "static/media/one.png": "/u/static/media/one.365ca7b6b49d203a9f32.png",
     "static/media/foraer.PNG": "/u/static/media/foraer.c8aca6e642659a7186f8.PNG",
     "static/media/userside.PNG": "/u/static/media/userside.fa195583701fb805ee11.PNG",
     "static/media/poojasharma.png": "/u/static/media/poojasharma.32fe57162a36803d2751.png",
@@ -12,14 +13,13 @@
     "static/media/portfolioo.PNG": "/u/static/media/portfolioo.02c19b0f287df3d5366e.PNG",
     "static/media/khata.PNG": "/u/static/media/khata.015b527f44752eb88688.PNG",
     "static/media/Varino.ttf": "/u/static/media/Varino.16472b6a600eb32f3b51.ttf",
-    "static/media/one.jpg": "/u/static/media/one.11db02eb1d06be689a6e.jpg",
     "static/media/kasooko.PNG": "/u/static/media/kasooko.ef55ad4b5de079fa289c.PNG",
     "index.html": "/u/index.html",
-    "main.5f629add.css.map": "/u/static/css/main.5f629add.css.map",
-    "main.f552d340.js.map": "/u/static/js/main.f552d340.js.map"
+    "main.fec4a39a.css.map": "/u/static/css/main.fec4a39a.css.map",
+    "main.e8ce3b3b.js.map": "/u/static/js/main.e8ce3b3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f629add.css",
-    "static/js/main.f552d340.js"
+    "static/css/main.fec4a39a.css",
+    "static/js/main.e8ce3b3b.js"
   ]
 }
